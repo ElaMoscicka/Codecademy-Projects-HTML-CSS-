@@ -1,5 +1,5 @@
 .container {
-  max-width: 928px;
+ max-width: 928px;
 }
 
 h1, h2, p, a {
@@ -19,8 +19,9 @@ a {
 
 p{
   font-size:26px;
-	font-weight: 200; 
+  font-weight: 200; 
 }
+
 .main {
   height: 550px;
   padding-top: 55px;
@@ -87,7 +88,7 @@ p{
 
 @media (max-width: 500px) {
   .col-md-6 img {
-    padding: 50px;
-    width: 100%;
+   padding: 50px;
+   width: 100%;
   }
 }
