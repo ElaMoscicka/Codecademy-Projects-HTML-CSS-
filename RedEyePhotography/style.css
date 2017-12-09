@@ -16,7 +16,7 @@ html, body {
   font-size: 32px;
   margin: 0 auto;
   position:relative;
-	padding-bottom:10px;
+  padding-bottom:10px;
   text-transform: uppercase;
   top:44px;
 }
@@ -31,8 +31,8 @@ html, body {
   transition:color 0.25s;
   color: #fff;
   display:inline;
-	text-transform:uppercase;
-	padding: 0 10px;
+  text-transform:uppercase;
+  padding: 0 10px;
 }
 
 .nav li:hover {
@@ -47,20 +47,21 @@ html, body {
 }
 
 .footer{
-	color: #31363d;
+  color: #31363d;
   text-transform: uppercase;
   text-align: right;
   font-size:10px;
   padding-right:40px;
   margin-bottom: 100px;
-	height: 70px;
-	line-height: 70px; 
+  height: 70px;
+  line-height: 70px; 
 }
+
 @media (max-width: 500px) {
   .row {
-    margin-top: 0;
+   margin-top: 0;
   }
   .img-responsive {
-    margin-bottom: 20px;
+   margin-bottom: 20px;
   }
 }
